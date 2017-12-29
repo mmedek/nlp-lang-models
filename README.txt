@@ -1,4 +1,4 @@
-This application serves as simple example of language modeling.
+This application serves as simple example of language modeling in python 3.6.
 
 Content of repo:
 
